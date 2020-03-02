@@ -1,5 +1,3 @@
-# LearningJavascript
-
 // https://exercism.io/my/tracks/javascript
 
 // The classical introductory exercise. Just say "Hello, World!".
@@ -86,17 +84,10 @@ getValues("Black","Brown","Grey");
 
 function acroCreator(a,b,c)
 {
-
+	console.log(a[0] + b[0] + c[0])
 }
 
-
-
-
-
-
-
-
-
+acroCreator("Hello" , "World" , "Derp")
 
 
 
